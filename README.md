@@ -22,18 +22,19 @@ Brittany still has a strong celtic culture (music, art), but this is not in Renn
 ## Must see
 
 ### Music
-  - For clubbing, best is arguably the [1988](https://www.1988liveclub.com/).
   - The rockiest place around: the [Mondo Bizzaro](https://mondobizarro.fr/) (you will have to take a bus).
   - Indie concerts @ le Marquis de Sade, Alex Tavern or le Ty Anna.
-  - For the underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
+  - "Discothèques"/clibs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
+  - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled.
+  - There is a large underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
-  - Irish session listed [here](https://thesession.org).
+  - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
   - Best for late drinks: the penny lane.
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
-  - Fancy cocktails: Le Monfort.
+  - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
 
 ### Food
@@ -48,5 +49,6 @@ Brittany still has a strong celtic culture (music, art), but this is not in Renn
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size.)
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
+  - Nice (small) mordern are venue, mostly around specific exhibitions: le FRAC
   
 ## Do not
