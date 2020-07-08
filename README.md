@@ -53,4 +53,12 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
   - Nice (small) mordern are venue, mostly around specific exhibitions: le FRAC
   
+### Main Festivals
+  - April: [Mythos](https://www.festival-mythos.com/)
+  - May: [Rock&solex](https://rocknsolex.fr/)
+  - July: [Les tombées de la nuit](https://www.lestombeesdelanuit.com/en/)
+  - November: [Yaouank](https://yaouank.bzh/)
+  - December: les [transmusicales](https://www.lestrans.com/)
+  More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
+  
 ## Do not
