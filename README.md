@@ -6,6 +6,7 @@ For usual touristic clichés, check [here](https://www.brittanytourism.com/desti
 ## In short
 
   - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans)
+  - Central hub to get to most other places: [place République](https://www.openstreetmap.org/#map=19/48.10965/-1.67918) (check the [bus/metro](https://www.star.fr/) service)
   - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/)
   - Was kind of iconic for rock&roll in the 90s, but that's mostly passed
