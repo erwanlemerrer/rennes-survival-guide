@@ -35,6 +35,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 
 ### Bars/Pubs
   - Best for late drinks: the penny lane.
+  - The place for very late drinks: the [bentley](https://www.le-bentley.fr/) (closes at 5:30 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
@@ -43,6 +44,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
   - Loads of créperies: same pancakes idea, must try, with Breton cider or sauer milk.
   - City is good for fish restaurants. Classic one is Taverne de la marine.
+  - Crash plan for eating: quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
 
 ### Local shopping
   - Rennes has an historical market on the saturday morning, which is generally impressive for newcomers (freshest fish!).
@@ -61,4 +63,3 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - December: les [transmusicales](https://www.lestrans.com/)
   More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
   
-## Do not
