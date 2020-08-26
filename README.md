@@ -9,7 +9,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
 
   - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans).
   - Central hub to get to most other places: [place République](https://www.openstreetmap.org/#map=19/48.10965/-1.67918) (check the [bus/metro](https://www.star.fr/) service)
-    - Airport <-> république: bus ligne C6 (~30mn?)
+    - Airport <-> république: bus ligne C6 (~30mn?). Otherwise taxi is ~25-30€.
     - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance).
   - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long.
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
@@ -48,11 +48,12 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
   - Loads of créperies: same pancakes idea, must try, with Breton cider or sauer milk.
   - City is good for fish restaurants. Classic one is Taverne de la marine.
-  - Crash plan for eating: quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
+  - Crash plan for eating (restaurants close early here ~23h max!): quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
 
 ### Local shopping
   - Rennes has an historical market on the saturday morning, which is generally impressive for newcomers (freshest fish!).
   - Good/cheap/complete bakerie, including local specialties: le [fournil Vasselot](https://www.tripadvisor.fr/Restaurant_Review-g187103-d8605434-Reviews-Le_Fournil_Vasselot-Rennes_Ille_et_Vilaine_Brittany.html).
+  - Buy a Breton flag as a souvenir, in a nice [alternative shop](https://disuj.bigcartel.com/).
   
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size).
