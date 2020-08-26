@@ -1,12 +1,14 @@
 # Rennes survival guide
 
 Welcome. Now, what would I do here in your place.
-For usual touristic clichés, check [here](https://www.brittanytourism.com/destinations/the-10-destinations/rennes-and-brittanys-historic-gateways/rennes/).
+For touristic clichés, check [here](https://www.brittanytourism.com/destinations/the-10-destinations/rennes-and-brittanys-historic-gateways/rennes/).
 
 ## In short
 
   - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans)
   - Central hub to get to most other places: [place République](https://www.openstreetmap.org/#map=19/48.10965/-1.67918) (check the [bus/metro](https://www.star.fr/) service)
+    - Airport <-> république: bus ligne C6 (~30mn?)
+    - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance)
   - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/)
   - Was kind of iconic for rock&roll in the 90s, but that's mostly passed
@@ -34,8 +36,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
-  - Best for late drinks: the penny lane.
-  - The place for very late drinks: the [bentley](https://www.le-bentley.fr/) (closes at 5:30 on weekends)
+  - Best for late drinks: the penny lane (for very late drinks: the [bentley](https://www.le-bentley.fr/), closes at 5:30 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
