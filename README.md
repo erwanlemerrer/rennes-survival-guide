@@ -28,9 +28,9 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Music
   - The rockiest place around: the [Mondo Bizzaro](https://mondobizarro.fr/) (you will have to take a bus).
   - Indie concerts @ le Marquis de Sade, Alex Tavern or le Ty Anna.
-  - "Discothèques"/clibs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
+  - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled.
-  - There is a large underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
+  - There is a fair underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
   - Irish sessions listed [here](https://thesession.org).
@@ -54,7 +54,8 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size.)
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
-  - Nice (small) mordern are venue, mostly around specific exhibitions: le FRAC
+  - Nice (small) mordern art venue, mostly around specific exhibitions: le FRAC
+  - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history
   
 ### Main Festivals
   - April: [Mythos](https://www.festival-mythos.com/)
