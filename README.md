@@ -1,18 +1,21 @@
 # Rennes survival guide
 
+<!--![Alt text](https://blog.hutong-school.com/wp-content/uploads/2017/08/Survival-Guide-Sticker.jpg)-->
+
 Welcome. Now, what would I do here in your place.
-For touristic clichés, check [here](https://www.brittanytourism.com/destinations/the-10-destinations/rennes-and-brittanys-historic-gateways/rennes/).
+For touristic clichés, check [here](https://www.brittanytourism.com/destinations/the-10-destinations/rennes-and-brittanys-historic-gateways/rennes/). For a student angle, check [here](https://rennes.esnfrance.org/guide-de-survie-%C3%A0-rennes).
 
 ## In short
 
-  - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans)
+  - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans).
   - Central hub to get to most other places: [place République](https://www.openstreetmap.org/#map=19/48.10965/-1.67918) (check the [bus/metro](https://www.star.fr/) service)
     - Airport <-> république: bus ligne C6 (~30mn?)
-    - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance)
-  - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long
-  - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/)
-  - Was kind of iconic for rock&roll in the 90s, but that's mostly passed
-  - Its a hub to get to Saint Malo, that a must see (40mn by car)
+    - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance).
+  - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long.
+  - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
+  - Was kind of iconic for rock&roll in the 90s, but that's mostly passed.
+  - Its a hub to get to Saint Malo, that a must see (40mn by car).
+  - If you have several days here, consider visiting [Nantes](https://en.wikipedia.org/wiki/Nantes) ~1 hour away, its quite nice also.
 
 ## Where have you landed
 
@@ -36,7 +39,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
-  - Best for late drinks: the penny lane (for very late drinks: the [bentley](https://www.le-bentley.fr/), closes at 5:30 on weekends)
+  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the [bentley](https://www.le-bentley.fr/), closes at 5:30 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
@@ -52,10 +55,10 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Good/cheap/complete bakerie, including local specialties: le [fournil Vasselot](https://www.tripadvisor.fr/Restaurant_Review-g187103-d8605434-Reviews-Le_Fournil_Vasselot-Rennes_Ille_et_Vilaine_Brittany.html).
   
 ### Various
-  - Want to chill? Visit the Thabor park. (Quite large considering the city size.)
+  - Want to chill? Visit the Thabor park. (Quite large considering the city size).
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
-  - Nice (small) mordern art venue, mostly around specific exhibitions: le FRAC
-  - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history
+  - Nice (small) mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
+  - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   
 ### Main Festivals
   - April: [Mythos](https://www.festival-mythos.com/)
