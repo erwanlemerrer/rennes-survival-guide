@@ -32,7 +32,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - The rockiest place around: the [Mondo Bizzaro](https://mondobizarro.fr/) (you will have to take a bus).
   - Indie concerts @ le Marquis de Sade, Alex Tavern or le Ty Anna.
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
-  - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled.
+  - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
   - There is a fair underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
@@ -43,11 +43,12 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
+  - Open space bar with concerts: [le Mem](https://www.lemem.fr/) (not in the very center though) 
 
 ### Food
   - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
   - Loads of créperies: same pancakes idea, must try, with Breton cider or sauer milk.
-  - City is good for fish restaurants. Classic one is Taverne de la marine.
+  - City is good for fish restaurants. Classic one is Taverne de la marine. Good one is Les pêcheurs (close to gare).
   - Crash plan for eating (restaurants close early here ~23h max!): quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
 
 ### Local shopping
@@ -60,12 +61,17 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
   - Nice (small) mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
+  - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
   
 ### Main Festivals
+  - March: [Doonit festival](https://fr-fr.facebook.com/dooinitfestival/)
   - April: [Mythos](https://www.festival-mythos.com/)
   - May: [Rock&solex](https://rocknsolex.fr/)
   - July: [Les tombées de la nuit](https://www.lestombeesdelanuit.com/en/)
+  - October: [Le grand soufflet](https://www.legrandsoufflet.fr/)
   - November: [Yaouank](https://yaouank.bzh/)
   - December: les [transmusicales](https://www.lestrans.com/)
   More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
   
+#### Thanks
+  - Irvin for nice suggestions
