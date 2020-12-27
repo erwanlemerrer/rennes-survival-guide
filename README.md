@@ -23,7 +23,8 @@ Rennes capital of Brittany (along with [Nantes](https://en.wikipedia.org/wiki/Na
 Brittany still has a strong celtic culture (Breton language, music, art), but this is not in Rennes that it will be the easiest to get in touch with (except if you're lucky enough to be here for the Yaouank festival). Except during the summer months, city center is packed with students.
 
 ## What to bring back from here
-  - Not wine. Producing region is far south, except for some Nantes region one, named Muscadet.
+  - Not wine. Producing region is far south, except for some Nantes region one, named Muscadet. 
+      - Great replacement: honey wine, aka chouchenn, is a must (personal favorite one: [Dragon Rouge](https://dragonrouge.bzh)).
   - Quite some local breweries, so you'll have the [choice](https://www.bieresbretonnes.fr/brasseries/).
 
 ## Must see
