@@ -1,4 +1,4 @@
-# Rennes survival guide
+# Rennes survival guide - Guide de survie à Rennes (EN)
 
 <!--![Alt text](https://blog.hutong-school.com/wp-content/uploads/2017/08/Survival-Guide-Sticker.jpg)-->
 
