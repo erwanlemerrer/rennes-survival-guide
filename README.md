@@ -34,7 +34,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ## Must see
 
 ### Music
-  - Indie concerts @ le Marquis de Sade, Alex Tavern or le Ty Anna.
+  - Indie concerts @ le Marquis de Sade, Alex Tavern, [Uzine](https://uzine.bar/) or le Ty Anna.
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
   - There is a fair underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
