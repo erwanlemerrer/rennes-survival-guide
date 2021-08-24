@@ -12,6 +12,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
     - Airport <-> république: bus ligne C6 (~30mn?). Otherwise taxi is ~25-30€.
     - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance).
   - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long.
+    - to give it a try: Taxis Rennais +33299307979, Allo Taxi +33664840054, Artisans Taxis Rennes +33299360303
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
   - Was kind of iconic for rock&roll in the 90s, but that's mostly passed.
   - Its a hub to get to Saint Malo, that a must see (40mn by car).
@@ -22,6 +23,9 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
 Rennes capital of Brittany (along with [Nantes](https://en.wikipedia.org/wiki/Nantes), with French authorities are nicely trying to hide historically).
 Brittany still has a strong celtic culture (Breton language, music, art), but this is not in Rennes that it will be the easiest to get in touch with (except if you're lucky enough to be here for the Yaouank festival). Except during the summer months, city center is packed with students.
 
+## Nodal points of the city
+  - Place de la république, where central metro arrives, buses. Good to go the the trainstation from there by metro as well.
+
 ## What to bring back from here
   - Not wine. Producing region is far south, except for some Nantes region one, named Muscadet. 
       - Great replacement: honey wine, aka chouchenn, is a must (personal favorite one: [Dragon Rouge](https://dragonrouge.bzh)).
@@ -30,7 +34,6 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ## Must see
 
 ### Music
-  - The rockiest place around: the [Mondo Bizzaro](https://mondobizarro.fr/) (you will have to take a bus).
   - Indie concerts @ le Marquis de Sade, Alex Tavern or le Ty Anna.
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
