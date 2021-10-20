@@ -34,16 +34,15 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ## Must see
 
 ### Music
-  - Indie concerts @ le Marquis de Sade, Alex Tavern, [Uzine](https://uzine.bar/) or le Ty Anna.
+  - Indie concerts @ le [Marquis de Sade](https://www.facebook.com/Le-Marquis-de-Sade-158854437480238/), Alex Taver[n](https://www.facebook.com/alexstavernrennes/), [Uzine](https://uzine.bar/) or [le Ty Anna](https://www.facebook.com/tyannarennes/).
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
-  - There is a fair underground techno scene, ask around the [chantier bar](https://fr-fr.facebook.com/barlechantier/) or the elabo.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
-  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the [bentley](https://www.le-bentley.fr/), closes at 5:30 on weekends)
+  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the Croner Shelter, closes at 4 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
