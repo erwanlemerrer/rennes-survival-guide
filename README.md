@@ -34,11 +34,12 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ## Must see
 
 ### Music
-  - Indie concerts @ le [Marquis de Sade](https://www.facebook.com/Le-Marquis-de-Sade-158854437480238/), Alex Taver[n](https://www.facebook.com/alexstavernrennes/), [Uzine](https://uzine.bar/) or [le Ty Anna](https://www.facebook.com/tyannarennes/).
+  - Indie concerts @ le [Marquis de Sade](https://www.facebook.com/Le-Marquis-de-Sade-158854437480238/), [Alex Tavern](https://www.facebook.com/alexstavernrennes/), [Uzine](https://uzine.bar/) or [le Ty Anna](https://www.facebook.com/tyannarennes/).
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
+  - Electro/techno DJs on weekends at [Uzine](https://uzine.bar/).
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
@@ -46,7 +47,8 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
-  - Open space bar with concerts: [le Mem](https://www.lemem.fr/) (not in the very center though) 
+  - Open space bar with concerts: [le Mem](https://www.lemem.fr/) (not in the very center though).
+  - Large bars outside the city: Avec, Morex Custom, BDS.
 
 ### Food
   - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
@@ -55,14 +57,15 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Crash plan for eating (restaurants close early here ~23h max!): quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
 
 ### Local shopping
-  - Rennes has an historical market on the saturday morning, which is generally impressive for newcomers (freshest fish!).
+  - Rennes has an historical market (17th century!) on the saturday morning, which is generally impressive for newcomers (freshest fish!).
   - Good/cheap/complete bakerie, including local specialties: le [fournil Vasselot](https://www.tripadvisor.fr/Restaurant_Review-g187103-d8605434-Reviews-Le_Fournil_Vasselot-Rennes_Ille_et_Vilaine_Brittany.html).
   - Buy a Breton flag as a souvenir, in a nice [alternative shop](https://disuj.bigcartel.com/).
+  - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché)
   
 ### Various
-  - Want to chill? Visit the Thabor park. (Quite large considering the city size).
+  - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
-  - Nice (small) mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
+  - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
   
@@ -75,6 +78,3 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - November: [Yaouank](https://yaouank.bzh/)
   - December: les [transmusicales](https://www.lestrans.com/)
   More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
-  
-#### Thanks
-  - Irvin for nice suggestions
