@@ -64,7 +64,6 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché)
   
 ### Various
-  - Here for longer? [Info on accommodation here](https://cmi.univ-rennes.fr/en/faqs/faqs-accomodation).
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
@@ -80,3 +79,8 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - November: [Yaouank](https://yaouank.bzh/)
   - December: les [transmusicales](https://www.lestrans.com/)
   More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
+  
+## Longer stay ?
+  - [Info on accommodation here](https://cmi.univ-rennes.fr/en/faqs/faqs-accomodation).
+  - [Info on residence permits here](https://cmi.univ-rennes.fr/en/faqs/faqs-residence-permit).
+
