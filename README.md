@@ -15,6 +15,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
     - to give it a try: Taxis Rennais +33299307979, Allo Taxi +33664840054, Artisans Taxis Rennes +33299360303
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
   - Was kind of iconic for rock&roll in the 90s, but that's mostly passed.
+  - Not really "no go zones" in the center, maybe avoid bar closing around 1am in the very center...
   - Its a hub to get to Saint Malo, that a must see (40mn by car).
   - If you have several days here, consider visiting [Nantes](https://en.wikipedia.org/wiki/Nantes) ~1 hour away, its quite nice also.
 
@@ -63,6 +64,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché)
   
 ### Various
+  - Here for longer? [Info on accommodation here](https://cmi.univ-rennes.fr/en/faqs/faqs-accomodation).
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
