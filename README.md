@@ -73,6 +73,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Main Festivals
   - March: [Doonit festival](https://fr-fr.facebook.com/dooinitfestival/)
   - April: [Mythos](https://www.festival-mythos.com/)
+  - May: [MAde festival](https://www.facebook.com/madefestivalrennes/)
   - May: [Rock&solex](https://rocknsolex.fr/)
   - July: [Les tombées de la nuit](https://www.lestombeesdelanuit.com/en/)
   - October: [Le grand soufflet](https://www.legrandsoufflet.fr/)
@@ -80,7 +81,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - December: les [transmusicales](https://www.lestrans.com/)
   More [here](https://www.tourisme-rennes.com/fr/organiser-mon-sejour/nous-vous-conseillons/infos-pratiques/calendrier-festivals-bretagne/).
   
-## Longer stay ?
+## Long stay ?
   - [Info on accommodation here](https://cmi.univ-rennes.fr/en/faqs/faqs-accomodation).
   - [Info on residence permits here](https://cmi.univ-rennes.fr/en/faqs/faqs-residence-permit).
 
