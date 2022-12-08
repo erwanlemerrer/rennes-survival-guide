@@ -21,7 +21,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
 
 ## Where have you landed
 
-Rennes capital of Brittany (along with [Nantes](https://en.wikipedia.org/wiki/Nantes), with French authorities are nicely trying to hide historically).
+Rennes capital of Brittany (along with [Nantes](https://en.wikipedia.org/wiki/Nantes), which French authorities are nicely trying to hide historically).
 Brittany still has a strong celtic culture (Breton language, music, art), but this is not in Rennes that it will be the easiest to get in touch with (except if you're lucky enough to be here for the Yaouank festival). Except during the summer months, city center is packed with students.
 
 ## Nodal points of the city
@@ -44,7 +44,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
-  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the Croner Shelter, closes at 4 on weekends)
+  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the Corner Shelter, closes at 4 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
@@ -66,6 +66,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
+  - General purpose museum, library and events occasionnaly: [les champs libres](https://www.leschampslibres.fr/).
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
