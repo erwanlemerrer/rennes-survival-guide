@@ -16,7 +16,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
   - Was kind of iconic for rock&roll in the 90s, but that's mostly passed.
   - Not really "no go zones" in the center, maybe avoid bar closing around 1am in the very center...
-  - Its a hub to get to Saint Malo, that a must see (40mn by car).
+  - Its a hub to get to Saint Malo, that a must see (40mn by car or 55mn by [TER](https://www.sncf-connect.com/train/horaires/rennes/saint-malo) (train)).
   - If you have several days here, consider visiting [Nantes](https://en.wikipedia.org/wiki/Nantes) ~1 hour away, its quite nice also.
 
 ## Where have you landed
