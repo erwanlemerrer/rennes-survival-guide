@@ -86,4 +86,6 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ## Long stay ?
   - [Info on accommodation here](https://cmi.univ-rennes.fr/en/faqs/faqs-accomodation).
   - [Info on residence permits here](https://cmi.univ-rennes.fr/en/faqs/faqs-residence-permit).
+  
+  _Please feel free to edit/add stuff through a push request, thanks/trugarez!_
 
