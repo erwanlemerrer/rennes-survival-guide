@@ -65,7 +65,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
-  - Need a hackerspace to visit? Let's face it, there is no active one today (just sticky echoes of a descent past).
+  - Need a hackerspace to visit? Go to see [Breizh-Entropy](https://wiki.breizh-entropy.org/wiki/Breizh-Entropy) in l'Élaboratoire. [Here](https://www.openstreetmap.org/?mlat=48.10668&mlon=-1.65117#map=18/48.10668/-1.65117), 1st floor, every wednesday at ~6.30pm to ~9pm. Check [IRC](https://wiki.breizh-entropy.org/wiki/IRC)
   - General purpose museum, library and events occasionnaly: [les champs libres](https://www.leschampslibres.fr/).
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
