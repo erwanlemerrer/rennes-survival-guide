@@ -26,6 +26,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 
 ## Nodal points of the city
   - Place de la république, where central metro arrives, buses. Good to go the 1) trainstation from there by metro, and 2) to the airport by cheap bus C6.
+  - If you just have 1h to for siteseeing, directly go to place [Saint Anne](https://osm.org/go/eri08~5~a) (metro stop Saint Anne, from trainstation and république).
 
 ## What to bring back from here
   - Not wine. Producing region is far south, except for some Nantes region one, named Muscadet. 
