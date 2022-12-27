@@ -21,7 +21,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
 
 ## Where have you landed
 
-Rennes capital of Brittany (along with [Nantes](https://en.wikipedia.org/wiki/Nantes), which French authorities are nicely trying to hide historically).
+Rennes capital of [Brittany](https://en.wikipedia.org/wiki/Brittany) (along with [Nantes](https://en.wikipedia.org/wiki/Nantes), which French authorities are nicely trying to hide historically).
 Brittany still has a strong celtic culture (Breton language, music, art), but this is not in Rennes that it will be the easiest to get in touch with (except if you're lucky enough to be here for the Yaouank festival). Except during the summer months, city center is packed with students.
 
 ## Nodal points of the city
@@ -48,14 +48,15 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the Corner Shelter, closes at 4 on weekends)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
+  - Beer place for beer geeks: la maison à bières craft.
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
   - Open space bar with concerts: [le Mem](https://www.lemem.fr/) (not in the very center though).
-  - Large bars outside the city: Avec, Morex Custom, BDS.
+  - Large hipster bars outside the city: Avec, Morex Custom, BDS.
 
 ### Food
   - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
   - Loads of créperies: same pancakes idea, must try, with Breton cider or sauer milk.
-  - City is good for fish restaurants. Classic one is Taverne de la marine. Good one is Les pêcheurs (close to gare).
+  - City is good for fish restaurants. Classic one is Taverne de la marine. Good one is Les pêcheurs (close to gare), for grill in the chimney: l'os ou l'arête.
   - Crash plan for eating (restaurants close early here ~23h max!): quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
 
 ### Local shopping
@@ -67,7 +68,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - General purpose museum, library and events occasionnaly: [les champs libres](https://www.leschampslibres.fr/).
-  - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/).
+  - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/), or the more confidential [40m3](https://www.facebook.com/40mcube/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
   
