@@ -8,6 +8,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
 ## In short
 
   - You can check most of the center in around 2 hours by feet I would say (so no need for bus plans).
+  - To get general information you can go to the [Office du tourisme](https://www.tourisme-rennes.com/en/).
   - Central hub to get to most other places: [place République](https://www.openstreetmap.org/#map=19/48.10965/-1.67918) (check the [bus/metro](https://www.star.fr/) service)
     - Airport <-> république: bus ligne C6 (~30mn?). Otherwise taxi is ~25-30€.
     - Bus station <-> center: easy with direct metro line (stop at Saint Michel for instance).
