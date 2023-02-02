@@ -34,6 +34,10 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
       - Great replacement: honey wine, aka chouchenn, is a must (personal favorite one: [Dragon Rouge](https://dragonrouge.bzh)).
   - Quite some local breweries, so you'll have the [choice](https://www.bieresbretonnes.fr/brasseries/).
 
+## Dead sundays
+  - Most of restaurants, bars and nearly all shops are closed on sunday/monday. Crêperie on sundays: La ville d'ys, beers: La cité d'ys (yes that's a lot of [Ys](https://en.wikipedia.org/wiki/Ys)!).
+  - Parcs (Thabor, Oberhtur, Gayeuilles...) are opened on sundays, as well as some pools, les Champs Libres, and cinemas.
+
 ## Must see
 
 ### Music
@@ -65,14 +69,14 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Good/cheap/complete bakerie, including local specialties: le [fournil Vasselot](https://www.tripadvisor.fr/Restaurant_Review-g187103-d8605434-Reviews-Le_Fournil_Vasselot-Rennes_Ille_et_Vilaine_Brittany.html).
   - Buy a Breton flag as a souvenir, in a nice [alternative shop](https://disuj.bigcartel.com/).
   - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché)
-  
+
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - General purpose museum, library and events occasionnaly: [les champs libres](https://www.leschampslibres.fr/).
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/), or the more confidential [40m3](https://www.facebook.com/40mcube/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
-  
+
 ### Main Festivals
   - March: [Doonit festival](https://fr-fr.facebook.com/dooinitfestival/)
   - April: [Mythos](https://www.festival-mythos.com/)
