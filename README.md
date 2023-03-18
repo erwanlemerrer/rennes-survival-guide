@@ -76,6 +76,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/), or the more confidential [40m3](https://www.facebook.com/40mcube/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
+  - Indie cinemas: [arvor](https://www.cinema-arvor.fr/) and [tnb](https://www.t-n-b.fr/) (also a theatre!).
 
 ### Main Festivals
   - March: [Doonit festival](https://fr-fr.facebook.com/dooinitfestival/)
