@@ -15,7 +15,7 @@ For touristic clichés, check [here](https://www.brittanytourism.com/destination
   - Cabs are a pain to get: not numerous enough, and close to impossible to get as the night grows long.
     - to give it a try: Taxis Rennais +33299307979, Allo Taxi +33664840054, Artisans Taxis Rennes +33299360303
   - Main activity for 20-30yo: bar crawl in [rue de la soif](https://www.tourisme-rennes.com/en/discover-rennes/history-rennes/drinkers-alley-rennes/).
-  - Was kind of iconic for rock&roll in the 90s, but that's mostly passed.
+  - Was kind of iconic for rock in the 90s, but that's mostly passed. Techno on the rise!
   - Not really "no go zones" in the center, maybe avoid bar closing around 1am in the very center...
   - Its a hub to get to Saint Malo, that a must see (40mn by car or 55mn by [TER](https://www.sncf-connect.com/train/horaires/rennes/saint-malo) (train)).
   - If you have several days here, consider visiting [Nantes](https://en.wikipedia.org/wiki/Nantes) ~1 hour away, its quite nice also.
@@ -36,30 +36,33 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 
 ## Dead sundays
   - Most of restaurants, bars and nearly all shops are closed on sunday/monday. Crêperie on sundays: La ville d'ys, beers: La cité d'ys (yes that's a lot of [Ys](https://en.wikipedia.org/wiki/Ys)!).
+  - The "[central hall](https://metropole.rennes.fr/organisme/la-criee-halle-centrale-659)" is open up to 2:00pm for emergency, yet on the high price.
   - Parcs (Thabor, Oberhtur, Gayeuilles...) are opened on sundays, as well as some pools, les Champs Libres, and cinemas.
+  - City [site](https://dimanche.rennes.fr/) dedicated to doom sundays.
 
 ## Must see
 
 ### Music
-  - Indie concerts @ le [Marquis de Sade](https://www.facebook.com/Le-Marquis-de-Sade-158854437480238/), [Alex Tavern](https://www.facebook.com/alexstavernrennes/), [Uzine](https://uzine.bar/) or [le Ty Anna](https://www.facebook.com/tyannarennes/).
+  - Indie concerts @ [Uzine](https://uzine.bar/), le [Marquis de Sade](https://www.facebook.com/Le-Marquis-de-Sade-158854437480238/), [Alex Tavern](https://www.facebook.com/alexstavernrennes/) or [le Ty Anna](https://www.facebook.com/tyannarennes/).
   - "Discothèques"/clubs are the level of those in France: you dance on records; so do not wait for Berlin style venues.
   - For "real" clubbing, best is arguably the [1988](https://www.1988liveclub.com/), if a DJ is scheduled. Sometimes at [Ubu](https://fr-fr.facebook.com/UbuClubRennes/) as well.
   - Cool jazzy meetups at the Penny Lane.
   - Breton/traditional sessions frequently at the [Mod Koz](https://fr-fr.facebook.com/sessionmodkoz/).
-  - Electro/techno DJs on weekends at [Uzine](https://uzine.bar/).
+  - Electro/techno DJs on thursday/fridays at [Uzine](https://uzine.bar/).
   - Irish sessions listed [here](https://thesession.org).
 
 ### Bars/Pubs
-  - Best for late drinks: the [penny lane](https://www.facebook.com/pennylanerennes/) (for very late drinks: the Corner Shelter, closes at 4 on weekends)
+  - Best for late drinks: the [Churh](https://www.facebook.com/pollen.rennes) (for very late drinks: the Corner Shelter, and Ty Coz vor very very late drinks)
   - Best happy hour with local drafts / best dive bar: la cité d'ys (7pm to 8pm).
   - Fancy cocktails: Le Monfort, le Peacock
   - Beer place for beer geeks: la maison à bières craft.
   - Must do a crawl in rue Saint Michel at least once, not to late (<11pm) if you want a bit of space... 
   - Open space bar with concerts: [le Mem](https://www.lemem.fr/) (not in the very center though).
   - Large hipster bars outside the city: Avec, Morex Custom, BDS.
+  - Bar + climbing? Check Origin.
 
 ### Food
-  - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant.
+  - Local classic fast food: a "galette saucisse", that is basically a sausage wrapped in the local pancake variant (best buy at the market on sat mornings)
   - Loads of créperies: same pancakes idea, must try, with Breton cider or sauer milk.
   - City is good for fish restaurants. Classic one is Taverne de la marine. Good one is Les pêcheurs (close to gare), for grill in the chimney: l'os ou l'arête.
   - Crash plan for eating (restaurants close early here ~23h max!): quite some choices place Rallier du Baty, rue de Saint Malo, or rue Saint Georges.
@@ -73,7 +76,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
   - General purpose museum, library and events occasionnaly: [les champs libres](https://www.leschampslibres.fr/).
-  - Mordern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/), or the more confidential [40m3](https://www.facebook.com/40mcube/).
+  - Modern art venue, mostly around specific exhibitions: le [FRAC](https://www.fracbretagne.fr/en/), or the more confidential [40m3](https://www.facebook.com/40mcube/).
   - [Musée de Bretagne](https://www.musee-bretagne.fr/): nice and condensed view of Breton history.
   - [Opéra de Rennes](https://opera-rennes.fr/fr): nice and small, could be visited.
   - Indie cinemas: [arvor](https://www.cinema-arvor.fr/) and [tnb](https://www.t-n-b.fr/) (also a theatre!).
