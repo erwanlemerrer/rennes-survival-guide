@@ -88,6 +88,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - May: [Rock&solex](https://rocknsolex.fr/)
   - July: [Les tombées de la nuit](https://www.lestombeesdelanuit.com/en/)
   - October: [Le grand soufflet](https://www.legrandsoufflet.fr/)
+  - October: [Samhain Fest](https://www.facebook.com/festivalsamain/) in suport of Diwan Breton schools!
   - November: [Yaouank](https://yaouank.bzh/)
   - December: les [transmusicales](https://www.lestrans.com/)
   
