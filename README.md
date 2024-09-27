@@ -33,6 +33,7 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Not wine. Producing region is far south, except for some Nantes region one, named Muscadet. 
       - Great replacement: honey wine, aka chouchenn, is a must (personal favorite one: [Dragon Rouge](https://dragonrouge.bzh)).
   - Quite some local breweries, so you'll have the [choice](https://www.bieresbretonnes.fr/brasseries/).
+  - Too bad fish do not travel well !
 
 ## Dead sundays
   - Most of restaurants, bars and nearly all shops are closed on sunday/monday. Crêperie on sundays: La ville d'ys, beers: La cité d'ys (yes that's a lot of [Ys](https://en.wikipedia.org/wiki/Ys)!).
@@ -71,7 +72,10 @@ Brittany still has a strong celtic culture (Breton language, music, art), but th
   - Rennes has an historical market (17th century!) on the saturday morning, which is generally impressive for newcomers (freshest fish!).
   - Good/cheap/complete bakerie, including local specialties: le [fournil Vasselot](https://www.tripadvisor.fr/Restaurant_Review-g187103-d8605434-Reviews-Le_Fournil_Vasselot-Rennes_Ille_et_Vilaine_Brittany.html).
   - Buy a Breton flag as a souvenir, in a nice [alternative shop](https://disuj.bigcartel.com/).
-  - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché)
+  - If you want to access mass shopping with standard prices, take bus C4 (eg, from République) to Longchamps, there is a large supermarket (Intermarché).
+
+### Culture
+  - Good conferences (often in French...) at Champs Libres.
 
 ### Various
   - Want to chill? Visit the Thabor park. (Quite large considering the city size). Oberthur is a central yet smaller one.
